@@ -2,7 +2,7 @@
 <h3 font-size="20" align="left">I'm a Software Engineering student from Vietnam.</h3>
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-- 🔭 I’m currently working at [UIT-Together](https://uit-together.github.io/).
+- 🔭 I’m currently working at [UIT-Together](https://uit-together.github.io/) Research group.
 - 🌱 I’m currently exploring Facial detection and Mobile development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 How to reach me: [vuhoang.gr@gmail.com](mailto:vuhoang.gr@gmail.com)
