@@ -1,16 +1,17 @@
 <h1 align="center"><b>Hi, I'm Hoang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 font-size="20" align="center">A Software Engineering student from Vietnam.</h3>
-<!--
-**vuhoang-gr/vuhoang-gr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 font-size="20" align="left">I'm a Software Engineering student from Vietnam.</h3>
+<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at [UIT-Together](https://uit-together.github.io/).
+- 🌱 I’m currently exploring Facial detection and Mobile development.
+- 💬 Ask me about anything, I love to answer!
+- 📫 How to reach me: [vuhoang.gr@gmail.com](mailto:vuhoang.gr@gmail.com)
 
-- 🔭 I’m currently working at UIT-Together.
-- 🌱 I’m currently learning about facial detection and mobile development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Connect with me:</h3>
+  
+<a href="https://www.facebook.com/VuHoangVuHoangVuHoangVuHoangVuHoangVuHoang/" target="blank">
+  <img align="left" alt="Hoang's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/vuhoang_gr/" target="blank">
+  <img align="left" alt="Hoang's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
